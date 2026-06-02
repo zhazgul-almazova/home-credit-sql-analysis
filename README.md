@@ -98,6 +98,22 @@ income or loan size. Loan applications from clients with frequent
 missed payments or high historical overdue amounts should be flagged
 for additional review during loan approval.
 
-Data Source
+## Tableau Dashboard
 
+The interactive dashboard summarizes key risk indicators and compares
+default vs non-default clients.
+
+Main KPIs:
+- Total Clients
+- Average Income
+- Average Credit Amount
+- Default Rate
+
+Visualizations:
+- Default Distribution
+- Income vs Credit Comparison
+- Average Maximum Overdue
+- Average Missed Payments
+
+Data Source
 Kaggle — Home Credit Default Risk
